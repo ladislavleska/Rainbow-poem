@@ -3,6 +3,7 @@ Purple
 Dark blue
 Blue
 Green
+Indigo
 Orange
 Yellow
 Red
