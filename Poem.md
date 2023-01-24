@@ -6,4 +6,4 @@ Green
 Orange
 Yellow
 Red
-These are color of th Rainbow
+These are color of th Rainbow!
